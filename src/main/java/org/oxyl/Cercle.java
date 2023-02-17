@@ -5,6 +5,8 @@ public class Cercle {
     private double centreY;
     private double rayon;
 
+    private int lecercle;
+
     private static int NOMBRE_DE_CERCLES;
 
 
